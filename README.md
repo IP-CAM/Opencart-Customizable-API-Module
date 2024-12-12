@@ -1,4 +1,4 @@
-# Opencart Custom & Customizabla API module
+# Opencart Custom & Customizable API module
 
 This module provides `Tax Rates`, `Orders` and `Products` lists endpoints but you can add new endpoints by simple touches.
 
